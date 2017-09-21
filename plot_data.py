@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import numpy as np
 import sys
-np.set_printoptions(threshold=np.nan)
 import csv
 import math
 import matplotlib.pyplot as plt
